@@ -12,3 +12,9 @@
 .my-valid-class {
     color:green;
 }
+
+.alert{
+	position: absolute;
+	top: 150px;
+	width:88%;	
+}

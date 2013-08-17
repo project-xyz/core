@@ -1,0 +1,1 @@
+	<div class="alert alert-error">	  <button type="button" class="close" data-dismiss="alert">&times;</button>	  <h4>Warning!</h4>	  <?php echo "Sorry, your email is already exists";?>	</div>

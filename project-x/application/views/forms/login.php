@@ -1,7 +1,7 @@
 <!-- Modal -->
 
 
-<form id="login" method="post" action="success.php" novalidate="novalidate">
+<form id="login" method="post" action="index.php/main/form_sign_in_controller" novalidate="novalidate">
 
     <label>Email</label>
 
